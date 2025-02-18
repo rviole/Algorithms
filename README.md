@@ -9,7 +9,7 @@ Portfolio project showcasing algorithms implemented in multiple languages as a l
 
 | Done | Algorithm Name | Time Complexity | Languages |
 |-------------|----------------|-----------------|-----------|
-| ✅          | Linear Search  | O(n)            | Python    |
+| ✅          | Linear Search  | O(n)            | ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white&labelColor=darkgreen&color=darkgreen)    |
 | ❌          | Binary Search  | O(log n)        | x         |
 
 ### 2️⃣ Sorting Algorithms
