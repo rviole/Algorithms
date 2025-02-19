@@ -27,4 +27,4 @@ if __name__ == "__main__":
     else:
         print(f"Element {target} not found in the array")
 
-    # More test cases in the test directory.
+    # Test cases are in the test directory.
